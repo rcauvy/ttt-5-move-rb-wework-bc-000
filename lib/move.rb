@@ -20,4 +20,3 @@ move(board, 0, "X")
 move(board, 8, "O")
 move(board, 4, "?")
 
-end
