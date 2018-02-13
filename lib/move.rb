@@ -14,7 +14,7 @@ def move(board, index, token  = "X")
     board[index] = token
 end
 
-board = [" "," "," "," "," "," "," "," "," "
+board = [" "," "," "," "," "," "," "," "," "]
 
 
 move(board, 8, "O")
